@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T10:57:54.304570+00:00",
-    "total_jobs": 446,
-    "enriched": 311
+    "built_at": "2026-06-01T10:39:47.274029+00:00",
+    "total_jobs": 436,
+    "enriched": 301
   },
   "jobs": {
     "senior-engineering-m-hawaiianhost-83488499": {
@@ -120,29 +120,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "software-engineer----modern-treasury-83488499": {
-      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
-      "key_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd",
-        "infrastructure_as_code",
-        "distributed_systems",
-        "observability",
-        "performance_tuning"
-      ],
-      "core_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-83488499": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -4608,52 +4585,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-customer-ai--asana-65190589": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption, redesigning post-sales motions, and enabling seat-to-AI conversion in renewal workflows.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "strategic",
-        "cross_functional",
-        "operationalization",
-        "ai_implementation"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "head-of-strategic-fi-asana-65190589": {
-      "summary": "The Head of Strategic Finance owns the financial and operational backbone that connects strategy to execution, ensuring revenue models and financial insights drive scalable growth and profitable GTM strategies.",
-      "key_skills": [
-        "strategic finance",
-        "financial modeling",
-        "revenue optimization",
-        "unit economics",
-        "pricing strategy",
-        "go-to-market",
-        "product-led growth",
-        "financial analysis"
-      ],
-      "core_skills": [
-        "financial modeling",
-        "revenue optimization",
-        "unit economics",
-        "pricing strategy"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "renewal-manager-asana-65190589": {
       "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks.",
       "key_skills": [
@@ -5386,72 +5317,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "customer-support-ass-betterment-65190589": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "cx-automation-perfor-betterment-65190589": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-65190589": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -6416,123 +6281,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "client-escalations-s-phil-65190589": {
-      "summary": "Client Escalations Specialist manages high-priority client and sales escalations, coordinates cross-functional resolution efforts, and improves escalation workflows to ensure timely resolution and client confidence.",
-      "key_skills": [
-        "client_escalations",
-        "prescription_management",
-        "healthcare",
-        "pharmacy",
-        "operations",
-        "sales",
-        "client_success",
-        "problem_solving"
-      ],
-      "core_skills": [
-        "problem_solving",
-        "cross_functional",
-        "communication",
-        "highly_driven",
-        "solutions_oriented"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "clinical-outreach-sp-phil-65190589": {
-      "summary": "Clinical Outreach Specialist engages with healthcare providers to streamline prescription access, explaining processes and resolving escalations while improving patient medication outcomes.",
-      "key_skills": [
-        "clinical outreach",
-        "healthcare",
-        "prescription processing",
-        "prior authorization",
-        "ehealth",
-        "pharmacy",
-        "specialty therapeutics",
-        "healthtech"
-      ],
-      "core_skills": [
-        "communication",
-        "problem solving",
-        "customer service",
-        "relationship building"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "director-of-business-phil-65190589": {
-      "summary": "Analytics and Strategy Director supports strategic initiatives, enables data-driven decision-making, and drives visibility into business performance by partnering cross-functionally across client success, finance, product, and operations.",
-      "key_skills": [
-        "analytics",
-        "strategy",
-        "data",
-        "business",
-        "operations",
-        "forecasting",
-        "kpi",
-        "dashboards"
-      ],
-      "core_skills": [
-        "data",
-        "analytics",
-        "strategy",
-        "business"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "senior-implementatio-phil-65190589": {
-      "summary": "Senior Implementation Manager leads enterprise client implementations from kickoff through activation, focusing on solution design, cross-functional execution, and delivering high-quality, technically sound implementations that drive speed to value.",
-      "key_skills": [
-        "implementation",
-        "solution_design",
-        "cross_functional_execution",
-        "technical_architecture",
-        "client_stakeholders",
-        "operational_readiness",
-        "process_improvement",
-        "stakeholder_influence"
-      ],
-      "core_skills": [
-        "technical_fluency",
-        "analytical_skills",
-        "data_driven_decision_making",
-        "problem_solving",
-        "stakeholder_influence"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "senior-manager-of-bu-phil-65190589": {
-      "summary": "This role focuses on supporting strategic initiatives, enabling data-driven decision-making, and driving visibility into business performance by partnering cross-functionally across client success, finance, product, and operations to identify opportunities, analyze performance, and deliver strategic insights.",
-      "key_skills": [
-        "analytics",
-        "strategy",
-        "data",
-        "business",
-        "operations",
-        "forecasting",
-        "kpi",
-        "dashboards"
-      ],
-      "core_skills": [
-        "data",
-        "analytics",
-        "strategy",
-        "business"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "analytics-lead--full-affirm-51461453": {
       "summary": "The role involves leveraging advanced data analytics to optimize credit strategies, designing risk models, monitoring portfolio performance, and collaborating with cross-functional teams to ensure regulatory compliance and sustainable growth.",
       "key_skills": [
@@ -6874,7 +6622,26 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-network-engin-cwsc-23338883": {
+    "head-of-strategic-fi-asana-10113046": {
+      "summary": "The Head of Strategic Finance owns the financial and operational backbone that connects strategy to execution, ensuring revenue models are aligned with GTM, Product, and FP&A.",
+      "key_skills": [
+        "strategic finance",
+        "financial modeling",
+        "revenue optimization",
+        "go-to-market"
+      ],
+      "core_skills": [
+        "financial analysis",
+        "forecasting",
+        "revenue management",
+        "strategic planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-network-engin-cwsc-10113046": {
       "summary": "Senior Network Engineer provides network sustainment and deployment support to military hospitals and clinics across Europe, leading technical operations and ensuring mission-critical network performance.",
       "key_skills": [
         "routing",
