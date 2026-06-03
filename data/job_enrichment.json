@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T10:39:47.274029+00:00",
-    "total_jobs": 436,
-    "enriched": 301
+    "built_at": "2026-06-03T10:42:12.069673+00:00",
+    "total_jobs": 440,
+    "enriched": 299
   },
   "jobs": {
     "senior-engineering-m-hawaiianhost-83488499": {
@@ -6619,48 +6619,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "head-of-strategic-fi-asana-10113046": {
-      "summary": "The Head of Strategic Finance owns the financial and operational backbone that connects strategy to execution, ensuring revenue models are aligned with GTM, Product, and FP&A.",
-      "key_skills": [
-        "strategic finance",
-        "financial modeling",
-        "revenue optimization",
-        "go-to-market"
-      ],
-      "core_skills": [
-        "financial analysis",
-        "forecasting",
-        "revenue management",
-        "strategic planning"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-network-engin-cwsc-10113046": {
-      "summary": "Senior Network Engineer provides network sustainment and deployment support to military hospitals and clinics across Europe, leading technical operations and ensuring mission-critical network performance.",
-      "key_skills": [
-        "routing",
-        "ospf",
-        "eigrp",
-        "solarwinds",
-        "ansible",
-        "armis",
-        "enterprise_lan",
-        "wan"
-      ],
-      "core_skills": [
-        "network_engineering",
-        "technical_leads",
-        "complex_network_issues",
-        "compliance"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     }
