@@ -1,7 +1,7 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:31:11.710165+00:00",
-    "total_jobs": 441,
+    "built_at": "2026-06-05T10:29:33.166891+00:00",
+    "total_jobs": 440,
     "enriched": 303
   },
   "jobs": {
@@ -5074,6 +5074,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "strategic-cloud-part-grafanalabs-65190589": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "ap---employee-expens-mixpanel-65190589": {
       "summary": "The AP & Employee Expense Specialist owns Mixpanel's accounts payable and employee expense programs, managing daily transactional workflows across Zip and Navan platforms while ensuring accuracy, timeliness, and proactive resolution of financial issues.",
       "key_skills": [
@@ -6622,25 +6645,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "head-of-strategic-fi-asana-82587934": {
-      "summary": "The Head of Strategic Finance owns the financial and operational backbone that connects strategy to execution, ensuring revenue models are aligned with GTM, Product, and FP&A.",
-      "key_skills": [
-        "strategic finance",
-        "financial modeling",
-        "revenue optimization",
-        "go-to-market"
-      ],
-      "core_skills": [
-        "financial analysis",
-        "forecasting",
-        "revenue management",
-        "strategic planning"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "sales-development-re-justworks-82587934": {
       "summary": "Sales Development Representative focuses on generating new business opportunities through outbound prospecting, pipeline generation, and customer engagement.",
       "key_skills": [
@@ -6687,7 +6691,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "senior-network-engin-cwsc-82587934": {
+    "senior-network-engin-cwsc-55269233": {
       "summary": "Senior Network Engineer provides network sustainment and deployment support to military hospitals and clinics across Europe, leading technical operations and ensuring mission-critical network performance.",
       "key_skills": [
         "routing",
