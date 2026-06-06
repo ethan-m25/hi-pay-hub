@@ -1,7 +1,7 @@
 {
   "meta": {
-    "built_at": "2026-06-05T10:29:33.166891+00:00",
-    "total_jobs": 440,
+    "built_at": "2026-06-06T10:27:29.931417+00:00",
+    "total_jobs": 441,
     "enriched": 303
   },
   "jobs": {
@@ -6691,7 +6691,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "senior-network-engin-cwsc-55269233": {
+    "senior-network-engin-cwsc-41603811": {
       "summary": "Senior Network Engineer provides network sustainment and deployment support to military hospitals and clinics across Europe, leading technical operations and ensuring mission-critical network performance.",
       "key_skills": [
         "routing",
