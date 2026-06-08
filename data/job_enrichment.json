@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-07T10:29:13.909119+00:00",
-    "total_jobs": 441,
-    "enriched": 303
+    "built_at": "2026-06-08T10:31:49.311428+00:00",
+    "total_jobs": 446,
+    "enriched": 302
   },
   "jobs": {
     "senior-engineering-m-hawaiianhost-83488499": {
@@ -6690,29 +6690,6 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "senior-network-engin-cwsc-28108066": {
-      "summary": "Senior Network Engineer provides network sustainment and deployment support to military hospitals and clinics across Europe, leading technical operations and ensuring mission-critical network performance.",
-      "key_skills": [
-        "routing",
-        "ospf",
-        "eigrp",
-        "solarwinds",
-        "ansible",
-        "armis",
-        "enterprise_lan",
-        "wan"
-      ],
-      "core_skills": [
-        "network_engineering",
-        "technical_leads",
-        "complex_network_issues",
-        "compliance"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     }
   }
 }
